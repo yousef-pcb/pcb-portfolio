@@ -2,7 +2,7 @@
 
 Compact ESP32 development board designed using a **4-layer PCB stackup** with a **breadboard-compatible form factor**, enabling easy prototyping while maintaining good power integrity and layout quality.
 
-<img src="renders/esp32_usb_dev_4layer_compact_front.png" width="500">
+<img src="esp32_usb_dev_4layer_compact_front.png" width="500">
 
 ---
 
